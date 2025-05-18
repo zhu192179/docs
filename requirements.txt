@@ -1,0 +1,5 @@
+sphinx==5.0.0
+sphinxcontrib.katex
+sphinx_rtd_theme
+pypose_sphinx_theme
+pypose
